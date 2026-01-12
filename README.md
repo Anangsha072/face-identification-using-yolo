@@ -51,19 +51,7 @@ Minimum **5 images per person** recommended.
 
 ![ezgif com-speed](https://github.com/user-attachments/assets/6d83cfb2-1492-4fc5-99d2-681ff76c80b9)
 
-
-
 ![WhatsApp Image 2026-01-12 at 1 55 20 PM](https://github.com/user-attachments/assets/09e8beee-9a14-4c7a-88d1-cd58bbc3a797)
-
-
-
-
-
-
-
-
-
-
 
 
 
