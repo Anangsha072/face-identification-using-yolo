@@ -60,7 +60,6 @@ Minimum **5 images per person** recommended.
 
 
 
-
 ## 📊 Confidence Explanation
 
 Confidence is based on face embedding similarity, not detection quality.
