@@ -6,7 +6,7 @@ This project performs **real-time face recognition from video footage** by combi
 - **SQLite** for user metadata storage
 This project demonstrates a face recognition system using YOLO (You Only Look Once) for detecting faces. It performs the following tasks:
 
-Dataset Preparation – A small dataset of 100 images is used to train the system.
+Dataset Preparation – A small dataset of 15 images is used to train the system( 5 images per person).
 
 Database Creation – Stores name, age, and gender of each person in the dataset.
 
@@ -29,15 +29,8 @@ It is designed for **CCTV-style video analysis**, also ideal for applications li
 
 ## 📁 Project Structure
 
-face-trainer-project/
-│
-├── dataset/ # Face images
-├── database.py # SQLite database creation
-├── insert_users.py # Insert users into database
-├── train_model.py # Train face encodings
-├── recognize.py # Video face recognition
-├── requirements.txt
-└── README.md
+<img width="356" height="253" alt="image" src="https://github.com/user-attachments/assets/465d9551-2df6-4001-aaaa-306a9775e7ba" />
+
 
 
 ## 🖼️ Dataset Format
@@ -57,6 +50,9 @@ Minimum **5 images per person** recommended.
 ## Result
 
 ![WhatsApp Image 2026-01-12 at 1 55 20 PM](https://github.com/user-attachments/assets/3e03272a-f0c8-4ce4-bd46-37f4c336a8c4)
+
+![ezgif com-crop (1)](https://github.com/user-attachments/assets/27728e93-d7b9-4deb-a4fd-edf63678acab)
+
 
 
 
