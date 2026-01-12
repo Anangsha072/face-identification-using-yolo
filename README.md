@@ -4,8 +4,15 @@ This project performs **real-time face recognition from video footage** by combi
 - **YOLOv8** for person detection
 - **InsightFace / Face Recognition** for identity matching
 - **SQLite** for user metadata storage
+This project demonstrates a face recognition system using YOLO (You Only Look Once) for detecting faces. It performs the following tasks:
 
-It is designed for **CCTV-style video analysis**.
+Dataset Preparation – A small dataset of 100 images is used to train the system.
+
+Database Creation – Stores name, age, and gender of each person in the dataset.
+
+Face Detection on Video – Detects faces from a video input and retrieves the corresponding information from the database in real-time.
+
+It is designed for **CCTV-style video analysis**, also ideal for applications like attendance systems, security monitoring, and personalized video analytics, providing instant recognition and metadata display for each detected face..
 
 ---
 
